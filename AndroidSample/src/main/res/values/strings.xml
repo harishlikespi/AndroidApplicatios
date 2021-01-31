@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="convert_string">Convert</string>
+    <string name="dollars_hints">dollars</string>
+    <string name="no_value_string">No Value</string>
+    <string name="name_string">Harish Selvakumar</string>
+</resources>
