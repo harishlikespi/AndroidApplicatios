@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="textView">Convert Fahrenheit to Celsius</string>
+    <string name="convert_string">convert</string>
+    <string name="fahrenheit_hint">Enter fahrenheit</string>
+    <string name="no_value_string">No value</string>
+</resources>
